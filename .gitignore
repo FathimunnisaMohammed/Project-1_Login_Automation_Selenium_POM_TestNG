@@ -4,7 +4,10 @@ target/
 !**/src/test/**/target/
 .kotlin
 
+
+
 ### IntelliJ IDEA ###
+.idea/
 .idea/modules.xml
 .idea/jarRepositories.xml
 .idea/compiler.xml
@@ -12,6 +15,8 @@ target/
 *.iws
 *.iml
 *.ipr
+
+
 
 ### Eclipse ###
 .apt_generated
